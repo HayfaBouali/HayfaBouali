@@ -1,29 +1,23 @@
- Bonjour, je suis Haifa Bouali
-
-
-
- Étudiante en Génie Logiciel |  Passionnée de Data Science & IA
+ 
 
 
 
 
 
-  
 
+Bonjour, je suis Hayfa Bouali 👋
 
+Étudiante ingénieure en génie logiciel | Passionnée de Data Science & IA
 
+🌐 Portfolio : https://portfolio-ten-mauve-90.vercel.app
 
----
+## À propos de moi
 
-##  À propos de moi
-
--  Étudiante en **2ème année Génie Logiciel** — ESSAT Gabès, Tunisie
--  Passionnée par la **Data Science** et l'**Intelligence Artificielle**
--  Développeuse **Flutter** pour applications mobiles
--  En apprentissage continu de nouvelles technologies
--  Participante au **Hackathon Gabès 2024** — GreenPulse AI
-
----
+- Étudiante ingénieure en 3ème année Génie Logiciel, ESSAT Gabès (Tunisie)
+- Passionnée par la Data Science et l'Intelligence Artificielle
+- Développeuse Flutter pour applications mobiles
+- En apprentissage continu de nouvelles technologies
+- Lauréate du Hackathon international GreenPulse AI, Gabès 2026
 
 ## 🛠️ Technologies & Outils
 
