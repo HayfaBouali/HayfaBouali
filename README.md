@@ -48,14 +48,25 @@ Bonjour, je suis Hayfa Bouali 👋
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-##  Projets phares
+## 🚀 Projets phares
+- 🎓 **LumiCourse** (stage chez Edora LMS) : plugin Moodle de correction automatique des réponses ouvertes des quiz grâce à l'IA. Développé en équipe pendant mon stage à distance. Code privé (propriété de l'entreprise).
 
-| Projet | Description | Technologies |
-|--------|-------------|-------------|
-| [ FamiliaBudget](https://github.com/HayfaBouali/FamiliaBudget) | App mobile de gestion budgétaire familiale | Flutter · FastAPI · PostgreSQL · ML |
-| [ GreenPulse AI](https://github.com/HayfaBouali/GreenPulse-AI) | Détection des maladies des palmiers par IA | Flutter · FastAPI · MobileNetV2 |
-| [ Cryptography-Project](https://github.com/HayfaBouali/Cryptography-Project) | Application de cryptographie avec algorithmes | Python · PySide6 |
-| [ Bibliotheque-JEE](https://github.com/HayfaBouali/Bibliotheque-JEE) | Gestion de bibliothèque web | Java · Hibernate · JSP · MySQL |
+- 🏆 **GreenPulse AI** : application mobile de détection des maladies des palmiers (Flutter) avec une API de classification (FastAPI + MobileNetV2). Projet lauréat du hackathon international GreenPulse AI, Gabès 2026.
+  [Application](https://github.com/HayfaBouali/GreenPulse-AI) · [API](https://github.com/HayfaBouali/GreenPulse-AI-backend)
+
+- 💰 **FamiliaBudget** : application mobile intelligente de gestion de budget familial, avec API REST (FastAPI, PostgreSQL) et machine learning.
+  [Application](https://github.com/HayfaBouali/FamiliaBudget) · [API](https://github.com/HayfaBouali/FamiliaBudget-backend)
+
+- 🤖 **Agentic RAG Streamlit** : assistant de recherche basé sur un agent et du RAG, avec interface Streamlit.
+  [Code](https://github.com/HayfaBouali/agentic-rag-streamlit)
+
+- 🛒 **E-commerce MERN** : application full stack (React, Express, MongoDB Atlas) pour gérer catégories et articles.
+  [Frontend](https://github.com/HayfaBouali/e-commerce-frontend) · [API](https://github.com/HayfaBouali/ecommerce)
+
+- 📚 **Bibliotheque-JEE** : application web de gestion de bibliothèque (Java EE, Hibernate, MySQL, JSP).
+  [Code](https://github.com/HayfaBouali/Bibliotheque-JEE)
+
+🌐 **Tous mes projets sur mon portfolio : https://portfolio-ten-mauve-90.vercel.app**
 
 ---
 
